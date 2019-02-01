@@ -1,0 +1,20 @@
+H1 {
+    font-size: 200%;
+    font-weight:  bold;
+    color: lavenderblush;
+}
+H2 {
+    font-size: 150%;
+    color: navy;
+}
+p {
+    color: whitesmoke;
+    font-size: 15pt;
+    font-family: 'PT Serif', serif;
+}
+a {
+    color: darkcyan;
+}
+body {
+    background: cornflowerblue;
+}
